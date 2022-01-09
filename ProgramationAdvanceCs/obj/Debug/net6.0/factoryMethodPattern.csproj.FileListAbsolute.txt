@@ -1,0 +1,15 @@
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\bin\Debug\net6.0\factoryMethodPattern.exe
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\bin\Debug\net6.0\factoryMethodPattern.deps.json
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\bin\Debug\net6.0\factoryMethodPattern.runtimeconfig.json
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\bin\Debug\net6.0\factoryMethodPattern.dll
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\bin\Debug\net6.0\ref\factoryMethodPattern.dll
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\bin\Debug\net6.0\factoryMethodPattern.pdb
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\obj\Debug\net6.0\factoryMethodPattern.csproj.AssemblyReference.cache
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\obj\Debug\net6.0\factoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\obj\Debug\net6.0\factoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\obj\Debug\net6.0\factoryMethodPattern.AssemblyInfo.cs
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\obj\Debug\net6.0\factoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\obj\Debug\net6.0\factoryMethodPattern.dll
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\obj\Debug\net6.0\ref\factoryMethodPattern.dll
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\obj\Debug\net6.0\factoryMethodPattern.pdb
+C:\Users\42673\OneDrive - GBM Grupo Bursátil Mexicano S.A. de C.V\Documentos\workspace\code\Test\CS\factoryMethodPattern\obj\Debug\net6.0\factoryMethodPattern.genruntimeconfig.cache
