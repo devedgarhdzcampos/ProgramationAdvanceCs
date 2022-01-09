@@ -1,0 +1,15 @@
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\obj\Debug\net6.0\ProgramationAdvanceCS.csproj.AssemblyReference.cache
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\obj\Debug\net6.0\ProgramationAdvanceCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\obj\Debug\net6.0\ProgramationAdvanceCS.AssemblyInfoInputs.cache
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\obj\Debug\net6.0\ProgramationAdvanceCS.AssemblyInfo.cs
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\obj\Debug\net6.0\ProgramationAdvanceCS.csproj.CoreCompileInputs.cache
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\bin\Debug\net6.0\ProgramationAdvanceCS.exe
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\bin\Debug\net6.0\ProgramationAdvanceCS.deps.json
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\bin\Debug\net6.0\ProgramationAdvanceCS.runtimeconfig.json
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\bin\Debug\net6.0\ProgramationAdvanceCS.dll
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\bin\Debug\net6.0\ref\ProgramationAdvanceCS.dll
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\bin\Debug\net6.0\ProgramationAdvanceCS.pdb
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\obj\Debug\net6.0\ProgramationAdvanceCS.dll
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\obj\Debug\net6.0\ref\ProgramationAdvanceCS.dll
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\obj\Debug\net6.0\ProgramationAdvanceCS.pdb
+D:\Workspaces\Proyectos\Code\ProgramationAdvanceCs\ProgramationAdvanceCs\obj\Debug\net6.0\ProgramationAdvanceCS.genruntimeconfig.cache
